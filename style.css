@@ -1240,7 +1240,7 @@ nav {
     box-shadow: 0px 0px 10px 0px var(--active-color);
 }
 
-.arrow__top:focus {
+.arrow__top:active {
     transform: translateY(0.2em);
 }
 

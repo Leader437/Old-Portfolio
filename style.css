@@ -101,7 +101,7 @@ nav {
     background-color: var(--nav-bg);
     backdrop-filter: blur(10px);
     display: flex;
-  /*justify-content: space-between;*/
+    justify-content: space-between;
     padding: 1em 5em;
     position: fixed;
     top: 0;
@@ -136,7 +136,6 @@ nav {
     display: inline-flex;
     align-items: center;
     gap: 3.5em;
-    margin-left: auto;
 }
 
 .nav__link {

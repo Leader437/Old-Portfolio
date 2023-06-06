@@ -800,6 +800,7 @@ nav {
     margin: 0.5em auto;
     cursor: pointer;
     transition: transform 0.5s;
+    text-decoration: none;
 }
 
 .visit__btn img {

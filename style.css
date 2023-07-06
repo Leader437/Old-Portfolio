@@ -732,6 +732,7 @@ nav {
 
 .project__img {
     aspect-ratio: 16/9;
+    -moz-aspect-ratio: 16/9;
     filter: grayscale(0) brightness(1);
     transition: filter 0.5s, transform 0.5s;
 }

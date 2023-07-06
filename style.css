@@ -730,7 +730,7 @@ nav {
     box-shadow: var(--portfolio-hover);
 }
 
-.img-box {
+.image__box {
     aspect-ratio: 16/9;
 }
 

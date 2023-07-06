@@ -730,10 +730,13 @@ nav {
     box-shadow: var(--portfolio-hover);
 }
 
-.project__img {
-    max-width: 100%;
-    height: 100%;
+.img-box {
     aspect-ratio: 16/9;
+}
+
+.project__img {
+    width: 100%;
+    height: 100%;
     filter: grayscale(0) brightness(1);
     transition: filter 0.5s, transform 0.5s;
 }

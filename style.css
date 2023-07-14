@@ -357,6 +357,8 @@ nav {
     z-index: 2;
     text-align: center;
     white-space: nowrap;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .home__content .buttons .btn:active {
